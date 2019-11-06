@@ -1,0 +1,14 @@
+	• Webová aplikace
+		○ Update management (aktuální jízdní řády z PID)
+		○ Možná webové vyhledávání spojů?
+		○ Databáze, pokud se domluvíme tak noSQL grafová
+	• Server na kterém bude běžet- API pro cílovou aplikaci
+	• Samotná aplikace
+		○ Vyhledávač spojů
+		○ Efektivní zobrazení spojů se zpožděním/změnou oproti normálu
+		○ Kupování jízdenek?
+		○ Skica spojů s revizory?
+
+	Verze 2
+	• Aplikace
+	• Určitá "updatovanost" (pokaždé na wifi?)
